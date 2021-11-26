@@ -28,7 +28,7 @@ May 2018 – Api 2020                High School Bangpleeratbamrung  , AAA High 
 
 Student Council:
 
-<img src="https://img.in.th/images/6b8e667f1e69d85a9a207c3c8244e075.jpg" width="550" height="350">
+<img src="https://img.in.th/images/6b8e667f1e69d85a9a207c3c8244e075.jpg" width="350" height="550">
 
 ***
 
