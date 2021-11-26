@@ -27,22 +27,27 @@ May 2018 – Api 2020                High School Bangpleeratbamrung  , AAA High 
 
 
 Student Council:
-![image](https://img.in.th/images/6b8e667f1e69d85a9a207c3c8244e075.jpg)
-<img src="link" width="200" height="250">
+
+<img src="https://img.in.th/images/6b8e667f1e69d85a9a207c3c8244e075.jpg" width="225" height="350">
 
 ***
 
 Sports days:
-![image](https://img.in.th/images/37aba59df17e2a50694b971cce6ce72e.jpg)
-![image](https://img.in.th/images/67e081bb14679c08f6bb4562a9426b6b.jpg)
+
+<img src="https://img.in.th/images/37aba59df17e2a50694b971cce6ce72e.jpg" width="550" height="350">
+<img src="https://img.in.th/images/67e081bb14679c08f6bb4562a9426b6b.jpg" width="550" height="350">
+
 
 
 ___
 
 Gifted camp:
-![Image](https://img.in.th/images/61c0875024575d28c6b6585c503ce9c8.jpg)
-![Image](https://img.in.th/images/ed3409b9490241318b5c73bab8352727.jpg)
-![Image](https://img.in.th/images/c919b18afcd83e1795f1220d51321d9e.jpg)
+
+
+<img src="https://img.in.th/images/61c0875024575d28c6b6585c503ce9c8.jpg" width="550" height="350">
+<img src="https://img.in.th/images/ed3409b9490241318b5c73bab8352727.jpg" width="550" height="350">
+<img src="https://img.in.th/images/c919b18afcd83e1795f1220d51321d9e.jpg" width="550" height="350">
+
 
 
 
