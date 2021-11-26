@@ -30,7 +30,7 @@ Student Council:
 
 <img src="https://img.in.th/images/6b8e667f1e69d85a9a207c3c8244e075.jpg" width="350" height="550">
 
-***
+---
 
 Sports days:
 
